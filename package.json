@@ -102,10 +102,10 @@
   "scripts": {
     "start": "nps",
     "test": "nps test",
-	"run": "au run --watch",
-	"test:e2e": "npm run start && ./node_modules/.bin/cypress run",
+    "run": "au run --watch",
+    "test:e2e": "npm run start && ./node_modules/.bin/cypress run",
     "test:e2e:open": "au run --watch && ./node_modules/.bin/cypress open",
-	"cypress:run": "./node_modules/.bin/cypress run",
+    "cypress:run": "./node_modules/.bin/cypress run",
     "cypress:open": "./node_modules/.bin/cypress open"
   },
   "main": "dist/app.bundle.js"
