@@ -1,5 +1,5 @@
 TN:
-SF:C:/Users/hamed/Desktop/111/aurelia-cypress-skeleton/src/app.ts
+SF:/Users/shahab/Desktop/aurelia-cypress-skeleton/src/app.ts
 FN:1,(anonymous_0)
 FNF:1
 FNH:1
@@ -13,17 +13,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:C:/Users/hamed/Desktop/111/aurelia-cypress-skeleton/src/environment.ts
-FNF:0
-FNH:0
-DA:1,0
-LF:1
-LH:0
-BRF:0
-BRH:0
-end_of_record
-TN:
-SF:C:/Users/hamed/Desktop/111/aurelia-cypress-skeleton/src/index.ts
+SF:/Users/shahab/Desktop/aurelia-cypress-skeleton/src/index.ts
 FN:3,configure
 FNF:1
 FNH:0
@@ -35,7 +25,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:C:/Users/hamed/Desktop/111/aurelia-cypress-skeleton/src/main.ts
+SF:/Users/shahab/Desktop/aurelia-cypress-skeleton/src/main.ts
 FN:11,configure
 FN:29,(anonymous_1)
 FNF:2
