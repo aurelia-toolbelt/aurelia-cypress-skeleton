@@ -1,5 +1,6 @@
-import {App} from '../../src/app';
-declare let expect: any;
+/// <reference types="jest" />
+
+import { App } from '../../src/app';
 describe('the app', () => {
   it('says hello', () => {
     expect(new App().message).toBe('Hello World!');
