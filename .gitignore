@@ -29,5 +29,4 @@ node_modules
 
 # Compiled files
 /scripts
-/src/environment.js
-/src/environment.ts
+test/coverage-jest
